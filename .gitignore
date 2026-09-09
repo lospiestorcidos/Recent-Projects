@@ -1,0 +1,7 @@
+# runtime / logs
+request.txt
+watcher.log
+watcher_test.log
+__pycache__/
+*.pyc
+.DS_Store
